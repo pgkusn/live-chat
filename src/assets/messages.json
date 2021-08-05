@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "picture": "https://randomuser.me/api/portraits/thumb/men/1.jpg",
+        "name": "Cristian",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing. Saepe, eum!"
+    },
+    {
+        "id": 2,
+        "picture": "https://randomuser.me/api/portraits/thumb/men/2.jpg",
+        "name": "Elli",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing. Saepe, eum!"
+    },
+    {
+        "id": 3,
+        "picture": "https://randomuser.me/api/portraits/thumb/men/3.jpg",
+        "name": "Deodora",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing. Saepe, eum!"
+    },
+    {
+        "id": 4,
+        "picture": "https://randomuser.me/api/portraits/thumb/men/4.jpg",
+        "name": "Anniken",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing. Saepe, eum!"
+    },
+    {
+        "id": 5,
+        "picture": "https://randomuser.me/api/portraits/thumb/men/5.jpg",
+        "name": "Oliver",
+        "content": "Lorem ipsum dolor sit amet consectetur, adipisicing. Saepe, eum!"
+    }
+]
